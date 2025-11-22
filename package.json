@@ -1,0 +1,32 @@
+{
+  "name": "zcash-transaction-verifier",
+  "version": "1.0.0",
+  "description": "A Node.js library for verifying Zcash transactions with support for shielded and transparent-to-shielded transactions",
+  "main": "verify-t2z-transaction.js",
+  "scripts": {
+    "test": "node verify-t2z-transaction.js",
+    "verify": "node verify-zcash-tx.js"
+  },
+  "keywords": [
+    "zcash",
+    "zec",
+    "blockchain",
+    "verification",
+    "shielded",
+    "sapling",
+    "orchard",
+    "cryptocurrency"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "YOUR_REPO_URL_HERE"
+  }
+}
