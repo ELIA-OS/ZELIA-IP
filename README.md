@@ -46,7 +46,7 @@
 
 ### Mint Information
 
-- **Mint Price**: 1 USD equivalent in ZEC
+- **Mint Price**: 10 USD equivalent in ZEC
 - **Blockchain**: Zcash Mainnet
 - **Protocol**: Zerdinals (ZRC-721)
 - **Transaction Type**: Transparent-to-Shielded (t2z) with encrypted memos
